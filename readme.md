@@ -2,7 +2,7 @@
 
 #### _Basic calculator made to practice Javascript for Intro class, 08-10-2016_
 
-#### By _**Stephen Newkirk, Amber Farrington, Ewa Manek**_
+#### By _**Stephen Newkirk, Amber Farrington, Ewa Manek, Michael Andrade**_
 
 ## Description
 
@@ -34,4 +34,4 @@ _HTML, CSS, Javascript_
 
 *This program is licensed under the MIT license.*
 
-Copyright (c) 2016 **_Stephen Newkirk, Amber Farrington, Ewa Manek_**
+Copyright (c) 2016 **_Stephen Newkirk, Amber Farrington, Ewa Manek, Michael Andrade_**

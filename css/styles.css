@@ -1,8 +1,19 @@
 form {
   margin: 3rem auto;
+  width: 50%;
+  text-align: left;
+}
+
+#output {
+  width: 50%;
+  margin: 2rem auto;
 }
 
 #output {
   font-size: xx-large;
+  text-align: center;
+}
+
+body {
   text-align: center;
 }
